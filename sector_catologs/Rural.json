@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Rural-9364",
+  "catalogs": {
+    "Headcount Ratio and Number of Poor Persons Below Poverty Line in Rural and Urban India": "/catalog/headcount-ratio-and-number-poor-persons-below-poverty-line-rural-and-urban-india",
+    "Financial and Physical Performance under Poverty Alleviation Programmes IRDP, SGSY, JRY, JGSY and EAS during Five Year Plan - Yearwise": "/catalog/financial-and-physical-performance-under-poverty-alleviation-programmes-irdp-sgsy-jry-jgsy",
+    "Status of Coverage under Rural Roads in Sample Districts - Based on Sample Survey": "/catalog/status-coverage-under-rural-roads-sample-districts-based-sample-survey",
+    "Below Poverty Line in India": "/catalog/below-poverty-line-india",
+    "Status and Effectiveness of the Prescribed Third Tier Quality Control Mechanism -Based on Sample Survey 2010": "/catalog/status-and-effectiveness-prescribed-third-tier-quality-control-mechanism-based-sample-survey",
+    "Change in Households Annual Income from Non-farm Activities in the Sample States - Based on Sample Survey": "/catalog/change-households-annual-income-non-farm-activities-sample-states-based-sample-survey",
+    "Accessibility of Educational Institutions Before and After Completion of Rural Roads - Based on Sample Survey": "/catalog/accessibility-educational-institutions-and-after-completion-rural-roads-based-sample-survey",
+    "Diversification of Crops and Agricultural Income - Based on Sample Survey": "/catalog/diversification-crops-and-agricultural-income-based-sample-survey",
+    "Accessibility of Health Care Centers/Hospitals Before and After Completion of Rural Roads - Based on Sample Survey": "/catalog/accessibility-health-care-centershospitals-and-after-completion-rural-roads-based-sample"
+  },
+  "name": "Rural"
+}

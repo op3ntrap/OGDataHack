@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Commerce-9239",
+  "catalogs": {
+    "Average Monthly Export & Import Transactions from Major Port": "/catalog/average-monthly-export-import-transactions-major-port",
+    "Country-wise India Exports by Principal Commodity": "/catalog/country-wise-india-exports-principal-commodity",
+    "Commodity And Country Wise Imports In India": "/catalog/commodity-and-country-wise-imports-india",
+    "Paid-up Capital of Companies Limited By Shares - Distribution By Industrial Activity": "/catalog/paid-capital-companies-limited-shares-distribution-industrial-activity",
+    "Import Export Classification, ITC (HS) Code And Import Policy": "/catalog/import-export-classification-itc-hs-code-and-import-policy",
+    "Foreign Direct Investment (FDI) Equity Inflows": "/catalog/foreign-direct-investment-fdi-equity-inflows",
+    "Country wise India's imports by Principal Commodity": "/catalog/country-wise-indias-imports-principal-commodity",
+    "Paid-up Capital of Non-Government Companies Limited By Shares - Distribution By Industrial Activity": "/catalog/paid-capital-non-government-companies-limited-shares-distribution-industrial-activity",
+    "Paid-up Capital of Government Companies Limited by Shares - Distribution By Industrial Activity": "/catalog/paid-capital-government-companies-limited-shares-distribution-industrial-activity"
+  },
+  "name": "Commerce"
+}

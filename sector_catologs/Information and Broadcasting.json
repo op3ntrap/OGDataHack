@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Information and Broadcasting-9341",
+  "catalogs": {
+    "Number of Registered Newspapers And Periodicals By Language And Periodicity": "/catalog/number-registered-newspapers-and-periodicals-language-and-periodicity",
+    "12th Five Year Plan": "/catalog/12th-five-year-plan",
+    "National Film Awards": "/catalog/national-film-awards",
+    "Indian Panorama": "/catalog/indian-panorama",
+    "Number of Registered Newspapers And Periodicals By Language (All India And State wise)": "/catalog/number-registered-newspapers-and-periodicals-language-all-india-and-state-wise",
+    "Number of Registered Newspapers and Periodicals by States and Periodicity": "/catalog/number-registered-newspapers-and-periodicals-states-and-periodicity",
+    "Revised Scheme-wise  Budgetary Support for XII Plan (2012-17) ": "/catalog/revised-scheme-wise-budgetary-support-xii-plan-2012-17",
+    "Operational Community Radio Stations": "/catalog/operational-community-radio-stations",
+    "Claimed Circulation of Registered Newspapers and Publications": "/catalog/claimed-circulation-registered-newspapers-and-publications"
+  },
+  "name": "Information and Broadcasting"
+}

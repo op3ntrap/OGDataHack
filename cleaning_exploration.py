@@ -62,7 +62,9 @@ for process in processes:
     process.start()
 for process in processes:
     process.join()
-print pd_csv.keys()
+
+
+# print pd_csv.keys()
 
 
 def compute_data_sizes(pd_csv):

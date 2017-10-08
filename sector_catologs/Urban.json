@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Urban-9350",
+  "catalogs": {
+    "Road Data - Coimbatore": "/catalog/road-data-coimbatore",
+    "Landmark Data - Coimbatore": "/catalog/landmark-data-coimbatore",
+    "General Infrastructure - Coimbatore": "/catalog/general-infrastructure-coimbatore",
+    "Slum Population As per TCPO estimates And Census 2001": "/catalog/slum-population-tcpo-estimates-and-census-2001",
+    "Population, Housing And Basic Amenities For Urban Areas": "/catalog/population-housing-and-basic-amenities-urban-areas",
+    "Vehicles and Land used for Solid Waste Management": "/catalog/vehicles-and-land-used-solid-waste-management",
+    "Sources Of Funding For The Urban sector": "/catalog/sources-funding-urban-sector",
+    "Asset Register belonging to Corporation in Coimbatore": "/catalog/asset-register-belonging-corporation-coimbatore",
+    "Street Light Data within Coimbatore": "/catalog/street-light-data-within-coimbatore"
+  },
+  "name": "Urban"
+}

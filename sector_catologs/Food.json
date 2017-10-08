@@ -1,0 +1,10 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Food-9292",
+  "catalogs": {
+    "Details of registered rice mills in Chhattisgarh": "/catalog/details-registered-rice-mills-chhattisgarh",
+    "Fair Price Shops in Chhattisgarh": "/catalog/fair-price-shops-chhattisgarh",
+    "Details of Paddy Procurement centres in Chhattisgarh": "/catalog/details-paddy-procurement-centres-chhattisgarh",
+    "Region wise, District Wise, Commodity wise, Daily food stock Position of FCI": "/catalog/region-wise-district-wise-commodity-wise-daily-food-stock-position-fci"
+  },
+  "name": "Food"
+}

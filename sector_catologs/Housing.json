@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Housing-9319",
+  "catalogs": {
+    "State wise Percentage Distribution of Rural and Urban Households by Type of Latrine": "/catalog/state-wise-percentage-distribution-rural-and-urban-households-type-latrine",
+    "Growth Of Urban Population": "/catalog/growth-urban-population",
+    "Proportion Of Urban Population And Total Population": "/catalog/proportion-urban-population-and-total-population",
+    "Percentage Of Poor During Tenth Plan Period": "/catalog/percentage-poor-during-tenth-plan-period",
+    "Percentage Distribution Of Rural And Urban Households By Source Of Drinking Water": "/catalog/percentage-distribution-rural-and-urban-households-source-drinking-water",
+    "Housing Price Index of India": "/catalog/housing-price-index-india",
+    "Progress Under Low Cost Sanitation": "/catalog/progress-under-low-cost-sanitation",
+    "State-wise Percentage Distribution Of Combined/Rural And Urban Households Living In Various Types Of Houses": "/catalog/state-wise-percentage-distribution-combinedrural-and-urban-households-living-various-types",
+    "Average Covered Area Of Dwelling Unit By States And By Type Of Dwelling Unit": "/catalog/average-covered-area-dwelling-unit-states-and-type-dwelling-unit"
+  },
+  "name": "Housing"
+}

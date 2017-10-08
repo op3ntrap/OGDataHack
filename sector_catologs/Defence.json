@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Defence-9256",
+  "catalogs": {
+    "Armament Products": "/catalog/armament-products",
+    "Budgetary allocations to technological areas": "/catalog/budgetary-allocations-technological-areas",
+    "Defence Science Journal (DSJ)": "/catalog/defence-science-journal-dsj",
+    "Books procured by DRDO laboratories": "/catalog/books-procured-drdo-laboratories",
+    "Rotary and Wankel type Engine": "/catalog/rotary-and-wankel-type-engine",
+    "DESIDOC Journal of Library & Information Technology": "/catalog/desidoc-journal-library-information-technology",
+    "Web Map Service (WMS) from Survey of India OSM Data and Bhuvan for Andhra Pradesh": "/catalog/web-map-service-wms-survey-india-osm-data-and-bhuvan-andhra-pradesh",
+    "Manpower details in DRDO": "/catalog/manpower-details-drdo",
+    "Web Map Service from Survey of India consisting of 9 OSM Topo Sheets for Delhi": "/catalog/web-map-service-survey-india-consisting-9-osm-topo-sheets-delhi"
+  },
+  "name": "Defence"
+}

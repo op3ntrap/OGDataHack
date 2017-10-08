@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Economy-9261",
+  "catalogs": {
+    "Capital Formation By Type Of Assets And BY Type Of Institution At Constant Price": "/catalog/capital-formation-type-assets-and-type-institution-constant-price",
+    "Average Daily Wage Rate in Rural India": "/catalog/average-daily-wage-rate-rural-india",
+    "Capital Formation By Type Of Assets And BY Type Of Institution At current Price": "/catalog/capital-formation-type-assets-and-type-institution-current-price",
+    "Employment exchanges Data": "/catalog/employment-exchanges-data",
+    "National Product At Factor Cost At 2004-05 Prices": "/catalog/national-product-factor-cost-2004-05-prices",
+    "Key indicators related to national accounts, NSSO and Economic Statistics": "/catalog/key-indicators-related-national-accounts-nsso-and-economic-statistics",
+    "Contract Workers": "/catalog/contract-workers",
+    "National Product At Factor Cost At Current Prices": "/catalog/national-product-factor-cost-current-prices",
+    "Employment in Public Sector and Private Sector": "/catalog/employment-public-sector-and-private-sector"
+  },
+  "name": "Economy"
+}

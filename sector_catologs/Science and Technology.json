@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Science and Technology-9368",
+  "catalogs": {
+    "Scheme-wise Extramural Research And Development Projects Approved": "/catalog/scheme-wise-extramural-research-and-development-projects-approved",
+    "Expenditure On Research And Development By Industry Groups For Public Sector": "/catalog/expenditure-research-and-development-industry-groups-public-sector",
+    "Expenditure On Research And Development By Industry Groups For Private Sector": "/catalog/expenditure-research-and-development-industry-groups-private-sector",
+    "Research And Development Manpower By Qualifications": "/catalog/research-and-development-manpower-qualifications",
+    "Agency-wise Extramural Research And Development Projects Approved": "/catalog/agency-wise-extramural-research-and-development-projects-approved",
+    "Expenditure On Research And Development By Objectives": "/catalog/expenditure-research-and-development-objectives",
+    "Expenditure on Research And Development By Field of Science": "/catalog/expenditure-research-and-development-field-science",
+    "Research Publications from National Institute of Immunology, New Delhi ": "/catalog/research-publications-national-institute-immunology-new-delhi",
+    "Applications For Patents Filed": "/catalog/applications-patents-filed"
+  },
+  "name": "Science and Technology"
+}

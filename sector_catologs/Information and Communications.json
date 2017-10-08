@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Information and Communications-9252",
+  "catalogs": {
+    "Money Orders in India": "/catalog/money-orders-india",
+    "Web Map Service from Survey of India consisting of 362 OSM Topo Sheets for Andhra Pradesh": "/catalog/web-map-service-survey-india-consisting-362-osm-topo-sheets-andhra-pradesh",
+    "Web Map Service from Survey of India consisting of 9 OSM Topo Sheets for Delhi": "/catalog/web-map-service-survey-india-consisting-9-osm-topo-sheets-delhi",
+    "Number of Telephones in India - Year-wise": "/catalog/number-telephones-india-year-wise",
+    "Detail information on Madhya Pradesh State Wide Area Network Presence at District and Block level": "/catalog/detail-information-madhya-pradesh-state-wide-area-network-presence-district-and-block-level",
+    "Electronics and IT Production": "/catalog/electronics-and-it-production",
+    "Web Map Service (WMS) from Survey of India OSM Data and Bhuvan for Andhra Pradesh": "/catalog/web-map-service-wms-survey-india-osm-data-and-bhuvan-andhra-pradesh",
+    "State-Wise Number of Telephones in India": "/catalog/state-wise-number-telephones-india",
+    "Locality based Pincode": "/catalog/locality-based-pincode"
+  },
+  "name": "Information and Communications"
+}

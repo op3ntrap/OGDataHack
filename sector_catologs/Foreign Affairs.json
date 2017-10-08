@@ -1,0 +1,9 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Foreign Affairs-9296",
+  "catalogs": {
+    "Current Details on Various Stages of Country/Mission Wise Overseas Citizenship of India (OCI) Data on a Daily Basis": "/catalog/current-details-various-stages-countrymission-wise-overseas-citizenship-india-oci-data-daily",
+    "Overseas Citizenship of India (OCI) Details by Country/ Mission": "/catalog/overseas-citizenship-india-oci-details-country-mission",
+    "Issuance of VISA to Various Foreign Nationals against Various Categories of VISAs": "/catalog/issuance-visa-various-foreign-nationals-against-various-categories-visas"
+  },
+  "name": "Foreign Affairs"
+}

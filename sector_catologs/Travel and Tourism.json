@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Travel and Tourism-9389",
+  "catalogs": {
+    "Foreign Tourist Arrivals In India From Top 15 Source Countries": "/catalog/foreign-tourist-arrivals-india-top-15-source-countries",
+    "Web Map Service from Survey of India consisting of 9 OSM Topo Sheets for Delhi": "/catalog/web-map-service-survey-india-consisting-9-osm-topo-sheets-delhi",
+    "Number of Approved And Unclassified Accommodation And Rooms": "/catalog/number-approved-and-unclassified-accommodation-and-rooms",
+    "Approved Service Providers (Adventure Tour Operators, Domestic Tour Operators, Inbound Tour Operators, Tourist Transport Operators and Travel Agents) ": "/catalog/approved-service-providers-adventure-tour-operators-domestic-tour-operators-inbound-tour",
+    "Approved Hotels/Restaurants/Air Catering Units/Time Share Resorts/Apartments/Convention Centre/Bed and Breakfast": "/catalog/approved-hotelsrestaurantsair-catering-unitstime-share-resortsapartmentsconvention-centrebed",
+    "Number of Foreign Tourists To India": "/catalog/number-foreign-tourists-india",
+    "Non Lapsable Central Pool of Resources": "/catalog/non-lapsable-central-pool-resources",
+    "Rooms and Hotels in different Category of Hotels in India": "/catalog/rooms-and-hotels-different-category-hotels-india",
+    "Web Map Service (WMS) from Survey of India OSM Data and Bhuvan for Andhra Pradesh": "/catalog/web-map-service-wms-survey-india-osm-data-and-bhuvan-andhra-pradesh"
+  },
+  "name": "Travel and Tourism"
+}

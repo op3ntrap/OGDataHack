@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Mining-9245",
+  "catalogs": {
+    "Performance Of Indian Bureau Of Mines During Twelfth Five Year Plan": "/catalog/performance-indian-bureau-mines-during-twelfth-five-year-plan-1",
+    "Published Quadrangle Geological map of Degree Sheet 41A, 41B, 41E, 41F, 41G, 41I, 41J, 41K, 41L, 41M, 41N, 41O and 41P": "/catalog/published-quadrangle-geological-map-degree-sheet-41a-41b-41e-41f-41g-41i-41j-41k-41l-41m-41n",
+    "Published Quadrangle Geological map of Degree Sheet 45B, 45C, 45D, 45E, 45F, 45G, 45H, 45I, 45J, 45K, 45L, 45M, 45N, 45O, 45P": "/catalog/published-quadrangle-geological-map-degree-sheet-45b-45c-45d-45e-45f-45g-45h-45i-45j-45k-45l",
+    "Yearwise Expiry of Mining Leases": "/catalog/yearwise-expiry-mining-leases",
+    "Published Quadrangle Geological map of Degree Sheet 43J,K,L,N,O,P and 44D,F,G,H,J,K,L,M,N,O,P": "/catalog/published-quadrangle-geological-map-degree-sheet-43jklnop-and-44dfghjklmnop",
+    "Digital Seismotectonic Atlas of India and its Environs": "/catalog/digital-seismotectonic-atlas-india-and-its-environs",
+    "Index of Mineral Production": "/catalog/index-mineral-production",
+    "Administration Of Mineral Conservation And Development Rules 1988": "/catalog/administration-mineral-conservation-and-development-rules-1988",
+    "Production and Value of Minerals": "/catalog/production-and-value-minerals"
+  },
+  "name": "Mining"
+}

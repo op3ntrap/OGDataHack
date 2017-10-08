@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Labour and Employment-9356",
+  "catalogs": {
+    "General Funds of Registered Trade Unions": "/catalog/general-funds-registered-trade-unions",
+    "Number, membership, income, expenditure and funds of registered trade union": "/catalog/number-membership-income-expenditure-and-funds-registered-trade-union",
+    "Labour Cost per Manday Worked": "/catalog/labour-cost-manday-worked",
+    "Employment Per 1000 Persons": "/catalog/employment-1000-persons",
+    "Employment Registration in MP": "/catalog/employment-registration-mp",
+    "Estimated Average Factory Employment in Working Factories by States At 2-Digit Level of Nic-2004 and Nic-2008": "/catalog/estimated-average-factory-employment-working-factories-states-2-digit-level-nic-2004-and-nic",
+    "Employment in railways": "/catalog/employment-railways-0",
+    "Key indicators related to national accounts, NSSO and Economic Statistics": "/catalog/key-indicators-related-national-accounts-nsso-and-economic-statistics",
+    "Unemployment Per 1000 Persons": "/catalog/unemployment-1000-persons"
+  },
+  "name": "Labour and Employment"
+}

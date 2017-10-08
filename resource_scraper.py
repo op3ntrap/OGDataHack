@@ -4,15 +4,26 @@ from threading import Thread
 
 
 def get_catalog_urls(link):
+    """
+    Function to extract catalog links and paginate from a start url
+    :param link:
+    :return (dict) catalog links with Title:
+    """
+    catalog_links = {}
     r = requests.get(link)
     soup = BeautifulSoup(r.content, "lxml")
     # first find all the view class divs
     for tags in soup.find_all('div', 'views-field views-field-title'):
         for tag in tags.find_all('a'):
             if "/catalog/" in tag.get('href'):
-                print tag.get('href')
-    for i in range(1, 471):
-        get_catalog_urls("https://data.gov.in/catalogs?sort_by=created&sort_order=DESC&items_per_page=9&page=" + str(i))
+                # catalog_links.append(tag.get('href'))
+                catalog_links[tag.text] = tag.get('href')
+    return catalog_links
+
+
+# Testing Script
+# for i in range(1, 471): get_catalog_urls(
+# "https://data.gov.in/catalogs?sort_by=created&sort_order=DESC&items_per_page=9&page=" + str(i))
 
 
 def load_urls():
@@ -86,13 +97,15 @@ def get_catalog_resources(catalog_url):
         return catalog_data
 
 
-r = get_catalog_resources("https://data.gov.in/catalog/surat-citizen-centric-services")
-print r['catalog_title']
-for key, val in r['resources'].iteritems():
-    print "\n\n\n\n"
-    print key
-    print "\n\n\n\n"
-    print val
+# Testing script to run the resource scraper
+
+# r = get_catalog_resources("https://data.gov.in/catalog/surat-citizen-centric-services")
+# print r['catalog_title']
+# for key, val in r['resources'].iteritems():
+#     print "\n\n\n\n"
+#     print key
+#     print "\n\n\n\n"
+#     print val
 
 
 # print r['resources']

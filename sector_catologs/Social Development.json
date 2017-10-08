@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Social Development-9376",
+  "catalogs": {
+    "Average annual expenditure per student of age 5\u201329 years in general education": "/catalog/average-annual-expenditure-student-age-5%E2%80%9329-years-general-education",
+    "Child Labour (age 5 to 14)": "/catalog/child-labour-age-5-14",
+    "Net attendance ratio": "/catalog/net-attendance-ratio",
+    "Social welfare services - Haryana Statistical Abstract": "/catalog/social-welfare-services-haryana-statistical-abstract",
+    "Distribution of households with electricity for domestic use": "/catalog/distribution-households-electricity-domestic-use",
+    "Distribution of households by pucca and kutcha house": "/catalog/distribution-households-pucca-and-kutcha-house",
+    "Live Births by Place of Delivery": "/catalog/live-births-place-delivery",
+    "Literacy Rate by Social Groups and Major Religious Communities": "/catalog/literacy-rate-social-groups-and-major-religious-communities",
+    "Out of school children (6 to 17 years)": "/catalog/out-school-children-6-17-years"
+  },
+  "name": "Social Development"
+}

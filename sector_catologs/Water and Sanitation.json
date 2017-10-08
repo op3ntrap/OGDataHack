@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Water and Sanitation-9249",
+  "catalogs": {
+    "Web Map Service from Survey of India consisting of 362 OSM Topo Sheets for Andhra Pradesh": "/catalog/web-map-service-survey-india-consisting-362-osm-topo-sheets-andhra-pradesh",
+    "State-wise Allocation / Release And Expenditure of NRDWP Fund": "/catalog/state-wise-allocation-release-and-expenditure-nrdwp-fund",
+    "Water Quality Affected Habitations": "/catalog/water-quality-affected-habitations",
+    "District-Wise Allocation / Release And Expenditure of NRDWP Fund": "/catalog/district-wise-allocation-release-and-expenditure-nrdwp-fund",
+    "Daily data on Rural Sanitation Coverage under Swachh Bharat Mission": "/catalog/daily-data-rural-sanitation-coverage-under-swachh-bharat-mission",
+    "Vehicles and Land used for Solid Waste Management": "/catalog/vehicles-and-land-used-solid-waste-management",
+    "Water bodies under Corporation/Municipal and other areas in Tamil Nadu": "/catalog/water-bodies-under-corporationmunicipal-and-other-areas-tamil-nadu",
+    "Web Map Service (WMS) from Survey of India OSM Data and Bhuvan for Andhra Pradesh": "/catalog/web-map-service-wms-survey-india-osm-data-and-bhuvan-andhra-pradesh",
+    "Basic Habitation Information": "/catalog/basic-habitation-information"
+  },
+  "name": "Water and Sanitation"
+}

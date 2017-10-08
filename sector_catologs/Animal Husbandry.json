@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Animal Husbandry-9217",
+  "catalogs": {
+    "Basic Animal Husbandry Survey - 2015": "/catalog/basic-animal-husbandry-survey-2015",
+    "Pig by breed (18th livestock census)": "/catalog/pig-breed-18th-livestock-census",
+    "Donkeys, Rabbit and Dogs and Elephants (18th livestock census)": "/catalog/donkeys-rabbit-and-dogs-and-elephants-18th-livestock-census",
+    "Breed Survey - 2012": "/catalog/breed-survey-2012",
+    "Camel by breed (18th livestock census)": "/catalog/camel-breed-18th-livestock-census",
+    "Details of Poultry Farms and Poultry Birds in Farms": "/catalog/details-poultry-farms-and-poultry-birds-farms",
+    "Details of Backyard Poultry (18th livestock census)": "/catalog/details-backyard-poultry-18th-livestock-census",
+    "Horses by breed (18th livestock census)": "/catalog/horses-breed-18th-livestock-census",
+    "Ponies by breed (18th livestock census)": "/catalog/ponies-breed-18th-livestock-census"
+  },
+  "name": "Animal Husbandry"
+}

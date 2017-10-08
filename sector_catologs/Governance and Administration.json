@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Governance and Administration-9302",
+  "catalogs": {
+    "Web Map Service from Survey of India consisting of 362 OSM Topo Sheets for Andhra Pradesh": "/catalog/web-map-service-survey-india-consisting-362-osm-topo-sheets-andhra-pradesh",
+    "State-wise List of Notaries Appointed by the Central Government": "/catalog/state-wise-list-notaries-appointed-central-government",
+    "Integrated Action Plan - IAP/LWE": "/catalog/integrated-action-plan-iaplwe",
+    "References received from various Ministries/Departments seeking legal advice from Department of Legal Affairs": "/catalog/references-received-various-ministriesdepartments-seeking-legal-advice-department-legal-0",
+    "Ward Details of Municipalities within Tamil Nadu": "/catalog/ward-details-municipalities-within-tamil-nadu",
+    "Vehicles and Land used for Solid Waste Management": "/catalog/vehicles-and-land-used-solid-waste-management",
+    "Water bodies under Corporation/Municipal and other areas in Tamil Nadu": "/catalog/water-bodies-under-corporationmunicipal-and-other-areas-tamil-nadu",
+    "Web Map Service (WMS) from Survey of India OSM Data and Bhuvan for Andhra Pradesh": "/catalog/web-map-service-wms-survey-india-osm-data-and-bhuvan-andhra-pradesh",
+    "Web Map Service from Survey of India consisting of 9 OSM Topo Sheets for Delhi": "/catalog/web-map-service-survey-india-consisting-9-osm-topo-sheets-delhi"
+  },
+  "name": "Governance and Administration"
+}

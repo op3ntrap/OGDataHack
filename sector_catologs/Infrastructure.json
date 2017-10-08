@@ -1,0 +1,15 @@
+{
+  "url": "https://data.gov.in/catalogs/sector/Infrastructure-9345",
+  "catalogs": {
+    "Web Map Service from Survey of India consisting of 362 OSM Topo Sheets for Andhra Pradesh": "/catalog/web-map-service-survey-india-consisting-362-osm-topo-sheets-andhra-pradesh",
+    "Physical Progress of RSVY": "/catalog/physical-progress-rsvy",
+    "Districts-wise Proposed and Actual Expenditure by Key Sectors - Based on Sample Survey": "/catalog/districts-wise-proposed-and-actual-expenditure-key-sectors-based-sample-survey",
+    "Physical Performance of the Districts - Based on Sample Survey": "/catalog/physical-performance-districts-based-sample-survey",
+    "District-wise details of the annual Return on Investment (RoI) - Based on Sample Survey": "/catalog/district-wise-details-annual-return-investment-roi-based-sample-survey",
+    "Sector-wise Utilization of RSVY Funds - Based on Sample Survey": "/catalog/sector-wise-utilization-rsvy-funds-based-sample-survey",
+    "Web Map Service from Survey of India consisting of 9 OSM Topo Sheets for Delhi": "/catalog/web-map-service-survey-india-consisting-9-osm-topo-sheets-delhi",
+    "Web Map Service (WMS) from Survey of India OSM Data and Bhuvan for Andhra Pradesh": "/catalog/web-map-service-wms-survey-india-osm-data-and-bhuvan-andhra-pradesh",
+    "Implementation Agency-wise Utilization of Funds  - Based on Sample Survey": "/catalog/implementation-agency-wise-utilization-funds-based-sample-survey"
+  },
+  "name": "Infrastructure"
+}
