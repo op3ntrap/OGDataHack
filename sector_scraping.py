@@ -21,7 +21,7 @@ def sector_links():
     return links
 
 
-def get_catalogs_sector_wise(sector_url, ):
+def get_catalogs(sector_url):
     """
     Function to Extract
     1. No. of Catalogs per Sector
@@ -29,12 +29,12 @@ def get_catalogs_sector_wise(sector_url, ):
     :param sector_url:
     :return (list) Catalog URLs in each sector:
     """
-    sleep(0.2)
+    # sleep(0.2)
     trunk = 'https://data.gov.in/'
     # TODO Prepare Proper Documentation for these functions
     sector = {
         'name': sector_url.split('-')[0].split('/')[-1],
-        'url': trunk + sector_url,
+        'url': sector_url,
         'catalogs': {}
     }
     sector_html = requests.get(trunk + sector_url)  # http request
@@ -60,13 +60,15 @@ def get_catalogs_sector_wise(sector_url, ):
     print "Downloading " + sector['name']
     for page in tqdm(range(total_pages + 1)):
         if page == 0:
-            sector['catalogs'].update(get_catalog_urls(trunk + sector_url))  # http request
+            sector['catalogs'].update(get_catalog_urls(
+                trunk + sector_url))  # http request
 
         else:
-            sector['catalogs'].update(get_catalog_urls(trunk + pagination_trunk + str(page)))  # http request
-    with open(sector['name'] + str('.json'), 'w+') as output_load:
+            sector['catalogs'].update(get_catalog_urls(
+                trunk + pagination_trunk + str(page)))  # http request
+    with open('sector_catalogs' + sector['name'] + str('.json'), 'w+') as output_load:
         json.dump(sector, output_load)
-    return 0
+    return sector
 
 
 if __name__ == "__main__":
@@ -74,6 +76,7 @@ if __name__ == "__main__":
     sector_url_endpoints = sector_links()
     # TODO optimise the multithreading capabilities of this piece of function
     for i in range(0, 32, 3):
-        thrds = [Thread(target=get_catalogs_sector_wise, args=(sector_url_endpoints[i + x],)) for x in range(3)]
+        thrds = [Thread(target=get_catalogs_sector_wise, args=(
+            sector_url_endpoints[i + x],)) for x in range(3)]
         start_thrds = [t.start() for t in thrds]
         collect_thrds = [t.join() for t in thrds]
