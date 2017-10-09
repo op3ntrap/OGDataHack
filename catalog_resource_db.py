@@ -1,14 +1,19 @@
+"""
+This file is proposed to delete
+"""
+
+
 from pymongo import MongoClient
 from catalog_url_manipulators import get_resources
 from ogd_mongo_handlers import create_catalog_db, create_resource_collection, insert_row_to_collection
 from requests import get
 
 
-def create_catalog_db(catalog_url):
+def create_department_db(catalog_url):
     pass
 
 
-def create_resource_collection(resources):
+def create_catalog_collection(resources):
     pass
 
 
